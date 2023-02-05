@@ -1,0 +1,2 @@
+The program returns FileNotFoundException when it cannot access the file because the file is being used by another
+process(though it sees the file but cant access it due to such reason)here the msword was the process here.
